@@ -4,7 +4,6 @@
 **💻 About me**
 - A Computer Science student from Slovenia  
 - Full-stack web developer building real-world applications with Django, HTMX and React  
-- Focused on clean backend architecture and practical web development
 
 **🛠 Tech Stack**
 
